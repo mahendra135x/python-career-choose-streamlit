@@ -1,0 +1,58 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+.env/
+env/
+ENV/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints
+
+# VS Code / IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Data files (optional – uncomment if needed)
+
+# *.csv
+
+# *.xlsx
+
+# Plotly / temp files
+
+*.html
+
+# Build / dist
+
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+
+.env
+
+# PyInstaller
+
+*.spec
